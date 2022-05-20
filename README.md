@@ -1,5 +1,6 @@
- <img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
-
+<div id="header" align="center">
+<img src="https://media2.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</div>
 ### Hi there 👋
 
 <!--
